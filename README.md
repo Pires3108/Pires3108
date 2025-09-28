@@ -1,5 +1,5 @@
 # Nicolas Pires Simão
-Olá! eu sou Nicolas um estudante de desenvolvimento de jogos e futuro programador de sucesso.
+Olá! eu sou Nicolas um estudante e estagiario em desenvolvimento de jogos.
 ## Minhas redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pires-sim%C3%A3o-4a4146218/)
@@ -19,24 +19,22 @@ Equipe
 
 ## Meus Repositórios
 
+### APIs
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires3108&repo=Giftup-API&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Giftup-API.git)
+
 ### Unity
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=ninja-frog-Adventure&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/ninja-frog-Adventure.git)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JottaFreitass&repo=Stella---Revolutions-is-comming&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/JottaFreitass/Stella---Revolutions-is-comming.git)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=RPGzao&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/RPGzao)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires3108&repo=Stella_test&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Stella_test.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chalantos&repo=Fat-runner&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/CHALANTOS/Fat-runner)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=ninja-frog-Adventure&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/ninja-frog-Adventure.git)
 
 ### Godot
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=Tiny_swords&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Tiny_swords)
 
-### C#
+### Alguns exercicios
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=Nivel-de-classificacao&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Nivel-de-classificacao)
-
-### Java Script
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=calculadora_rankeadas&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/calculadora_rankeadas/tree/master)
