@@ -12,12 +12,7 @@ Olá! eu sou Nicolas um estudante e estagiario em desenvolvimento de jogos.
 
 [![GitHub](https://img.shields.io/badge/Chalantos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHALANTOS) 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pires3108&theme=darcula&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=f56e0c&text_color=FFF&hide_title=true&hide=stars)
-
-
-## Meus Repositórios
+## Alguns Repositórios publicos
 
 ### APIs
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires3108&repo=Giftup-API&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Giftup-API.git)
