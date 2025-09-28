@@ -4,11 +4,11 @@ Olá! eu sou Nicolas um estudante e estagiario em desenvolvimento de jogos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pires-sim%C3%A3o-4a4146218/)
 
-Conta secundária:
+## Conta secundária:
 
 [![GitHub](https://img.shields.io/badge/Pires2902-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pires2902) 
 
-Equipe
+## Equipe TCA
 
 [![GitHub](https://img.shields.io/badge/Chalantos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHALANTOS) 
 
