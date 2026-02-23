@@ -15,21 +15,21 @@ Olá! eu sou Nicolas um estudante e estagiario em desenvolvimento de jogos.
 ## Alguns Repositórios
 
 ### APIs
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires3108&repo=Giftup-API&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Giftup-API.git)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires3108&repo=Giftup-API&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Giftup-API)
 
 ### Unity
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires3108&repo=Stella_test&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Stella_test.git)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires3108&repo=Stella_test&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires3108/Stella_test)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chalantos&repo=Fat-runner&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/CHALANTOS/Fat-runner)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Chalantos&repo=Fat-runner&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/CHALANTOS/Fat-runner)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=ninja-frog-Adventure&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/ninja-frog-Adventure.git)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires2902&repo=ninja-frog-Adventure&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/ninja-frog-Adventure)
 
 ### Godot
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=Tiny_swords&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Tiny_swords)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires2902&repo=Tiny_swords&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Tiny_swords)
 
 ### Alguns exercicios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=Nivel-de-classificacao&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Nivel-de-classificacao)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires2902&repo=Nivel-de-classificacao&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/Nivel-de-classificacao)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=calculadora_rankeadas&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/calculadora_rankeadas/tree/master)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires2902&repo=calculadora_rankeadas&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/calculadora_rankeadas)
