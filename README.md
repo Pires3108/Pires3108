@@ -17,6 +17,10 @@ Olá! eu sou Nicolas um estudante e estagiario em desenvolvimento de jogos.
 ### APIs
 [![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires3108&repo=Giftup-API&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=ffffff&text_color=ffffff)](https://github.com/Pires3108/Giftup-API)
 
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires3108&repo=AtaViva--plugin&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=ffffff&text_color=ffffff)](https://github.com/Pires3108/AtaViva--plugin)
+
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=LinttyOficial&repo=Lintty-engine&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=ffffff&text_color=ffffff)](https://github.com/LinttyOficial/Lintty-engine)
+
 ### Unity
 [![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pires3108&repo=Stella_test&bg_color=000&border_color=FF5500&show_icons=true&icon_color=FF5500&title_color=ffffff&text_color=ffffff)](https://github.com/Pires3108/Stella_test)
 
